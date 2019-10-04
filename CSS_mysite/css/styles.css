@@ -1,20 +1,36 @@
 body{
   background-color:#b2e4d5;
+  text-align: center;
+  font-family: sans-serif;
     }
+h1{
 
+  margin:0 auto 0 auto;
+}
 .top-container{
   background-color: #e4f9f5;
-  width:200px;
-  height:200px;
+  position: relative;
+  padding-top:100px;
+
 }
 .middle-container{
   background-color: red;
   width:200px;
   height:200px;
-  
+
 }
 .bottom-container{
   background-color: blue;
   width:200px;
   height:200px;
+}
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right: 400px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:300px;
+  left:400px;
 }
