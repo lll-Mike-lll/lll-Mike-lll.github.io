@@ -5,3 +5,4 @@ https://dribbble.com/
 https://sneakpeekit.com/
 https://balsamiq.com/
 https://www.codeply.com/
+https://fontawesome.com/
