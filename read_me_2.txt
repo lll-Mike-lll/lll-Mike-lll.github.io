@@ -6,3 +6,4 @@ https://sneakpeekit.com/
 https://balsamiq.com/
 https://www.codeply.com/
 https://fontawesome.com/
+mobile-friendly test
