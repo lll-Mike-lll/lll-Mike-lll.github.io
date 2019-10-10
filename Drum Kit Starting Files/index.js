@@ -9,9 +9,17 @@ for (var i = 0; i < numberOfDrumButton; i++) {
   document.querySelectorAll(".drum")[i].addEventListener("click",
     function() {
       // console.log(this.innerHTML);
-      this.style.color="white";
-    }
-  );
+      // this.style.color = "white";
+      var buttonInnerHTML = this.innerHTML;
+      switch (buttonInnerHTML) {
+        case "w":
+          var aud = new Audio("./sounds/tom-1.mp3");
+          aud.play()
+          break;
+        default:
+
+      }
+    });
 }
 // var aud = new Audio("./sounds/tom-1.mp3");
 // aud.play();
