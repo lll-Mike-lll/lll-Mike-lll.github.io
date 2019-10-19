@@ -7,6 +7,7 @@ background-color: #f7f7f7;
 }
 .container-fluid{
   padding: 2% 12% 5px 12%;
+  margin-bottom: -2px;
 }
 .nav-link{
   font-size: 1.2rem
